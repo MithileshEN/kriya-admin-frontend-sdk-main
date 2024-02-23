@@ -58,7 +58,7 @@ const CertificateInfo = () => {
         <Dropdown
           valueState={[date, setDate]}
           title="Select Date"
-          options={[24, 25, 26]}
+          options={[23, 24, 25]}
         />
         <Button
           text="Refresh"
